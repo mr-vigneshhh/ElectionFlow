@@ -8,7 +8,7 @@ ElectionFlow is a civic education platform that turns the complex Indian electio
 
 ## 🚀 Live Demo
 
-```
+```bash
 npm install
 npm run dev
 ```
@@ -223,6 +223,7 @@ This is an **independent educational platform** for civic awareness.
 
 ---
 
+<<<<<<< HEAD
 ## 🏆 Hackathon Judging Criteria
 
 | Priority | Implementation |
@@ -233,6 +234,9 @@ This is an **independent educational platform** for civic awareness.
 | **4. Testing** | 15 tests covering all critical logic. |
 | **5. Accessibility** | WCAG-friendly: semantic HTML, ARIA, keyboard, focus, reduced-motion. |
 | **6. Google Services** | Google Maps deep-link for polling station discovery. |
+=======
+
+>>>>>>> fb15a4fe347e1d2852056db137c81c344a7fffe6
 
 ---
 
@@ -249,3 +253,7 @@ This is an **independent educational platform** for civic awareness.
 ---
 
 *Built with ❤️ for election awareness and civic education.*
+<<<<<<< HEAD
+=======
+```
+>>>>>>> fb15a4fe347e1d2852056db137c81c344a7fffe6
